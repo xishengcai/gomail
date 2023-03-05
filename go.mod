@@ -1,3 +1,3 @@
 module github.com/xishengcai/gomail
 
-go 1.20
+go 1.17
